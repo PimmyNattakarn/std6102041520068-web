@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
@@ -58,3 +59,7 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
+=======
+# std6102041520068-web
+15 Nattakarn Saleesai (ณัฐกานต์ สาลีสาย)
+>>>>>>> 53c453f8d1d1893ce3e2c804f49f244c6f7a9b54
